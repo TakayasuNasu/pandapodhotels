@@ -3,6 +3,7 @@ import styled from 'styled-components'
 const Wrapper = styled.main`
 margin-left: auto;
 margin-right: auto;
+padding-top: 74px;
 max-width: 1080px;
 width: 80vw;
 img {
@@ -13,10 +14,9 @@ img {
 
 const ListStyle = styled.ul`
 display: grid;
-grid-gap: 72px;
-grid-auto-rows: 200px;
-grid-template-columns: repeat(auto-fill, 200px);
-margin-top: 20px;
+grid-gap: 40px;
+grid-auto-rows: 240px;
+grid-template-columns: repeat(auto-fill, 240px);
 `
 
 const Index = () => {
