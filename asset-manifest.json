@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/pandapodhotels/static/js/main.af7f0e9c.chunk.js",
+    "main.js.map": "/pandapodhotels/static/js/main.af7f0e9c.chunk.js.map",
+    "runtime-main.js": "/pandapodhotels/static/js/runtime-main.318f6df1.js",
+    "runtime-main.js.map": "/pandapodhotels/static/js/runtime-main.318f6df1.js.map",
+    "static/js/2.ef03b73f.chunk.js": "/pandapodhotels/static/js/2.ef03b73f.chunk.js",
+    "static/js/2.ef03b73f.chunk.js.map": "/pandapodhotels/static/js/2.ef03b73f.chunk.js.map",
+    "index.html": "/pandapodhotels/index.html",
+    "static/js/2.ef03b73f.chunk.js.LICENSE.txt": "/pandapodhotels/static/js/2.ef03b73f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.318f6df1.js",
+    "static/js/2.ef03b73f.chunk.js",
+    "static/js/main.af7f0e9c.chunk.js"
+  ]
+}
