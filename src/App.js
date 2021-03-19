@@ -1,8 +1,16 @@
+import React from 'react'
+import { Reset } from 'styled-reset'
 
+import Index from './pages/Index'
+import Header from './components/Header'
 
 const App = () => {
   return (
-    <h1>Panda</h1>
+    <React.Fragment>
+      <Reset />
+      <Header />
+      <Index />
+    </React.Fragment>
   )
 }
 
